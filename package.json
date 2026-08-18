@@ -1,0 +1,30 @@
+{
+  "name": "cyberhaxor-store",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "16.3.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "lucide-react": "0.367.0",
+    "@radix-ui/react-slot": "1.1.5",
+    "class-variance-authority": "0.7.0",
+    "clsx": "2.1.1",
+    "tailwind-merge": "2.2.0"
+  },
+  "devDependencies": {
+    "typescript": "5.7.2",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "postcss": "9.3.1",
+    "tailwindcss": "3.6.3",
+    "autoprefixer": "11.0.2"
+  }
+}
